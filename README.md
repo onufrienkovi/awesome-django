@@ -105,6 +105,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [saleor](https://github.com/mirumee/saleor) - GraphQL-based Django E-Commerce Platform
 - [django-shop](https://github.com/awesto/django-shop) - Django-based shop system
 - [shuup](https://github.com/shuup/shuup) - Django E-Commerce Platform
+- [django-oscar](https://github.com/django-oscar/django-oscar) - Domain-driven e-commerce for Django
 
 ### Files/Images
 - [django-cleanup](https://github.com/un1t/django-cleanup) - Zero configuration file/image removal for local and remote files
@@ -150,6 +151,7 @@ _For a complete listing of all available packages, see [Django Packages](https:/
 - [django-q](https://github.com/Koed00/django-q) - A multiprocessing distributed task queue
 - [django-rq](https://github.com/rq/django-rq) - Integration for Redis Queue
 - [django-redis](https://github.com/niwinz/django-redis) - Full featured Redis cache backend for Django
+- [celery](https://github.com/celery/celery) - Robust and broker-agnostic task queues for bigger, performance-focused projects
 
 ### Testing
 - [django-debug-toolbar](https://github.com/jazzband/django-debug-toolbar/) - Configurable panels to debug requests/responses
@@ -214,6 +216,7 @@ _A short list of Python packages that work well with Django._
 - [Adam Johnson](https://adamj.eu/tech/) - Adam is on the Technical Board of Django and writes regular tutorials.
 - [Matt Layman](https://www.mattlayman.com) - Regular tutorials and deep-dives on Django topics.
 - [Django Sites](https://www.djangosites.org/) - Comprehensive listing of sites built with Django.
+- [Django Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Styleguide for django with best practices and examples.
 
 ### Community
 
